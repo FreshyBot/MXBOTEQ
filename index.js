@@ -39,4 +39,4 @@ bot.on("message", async message => {
 
 });
 
-bot.login(token.tok+token.en);
+bot.login(token.tok + token.en);

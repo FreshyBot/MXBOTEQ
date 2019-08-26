@@ -38,4 +38,4 @@ bot.on("message", async message => {
 
 });
 
-bot.login('NjE1MjQ5NzE5MjU3NzI2OTg2.XWOo7Q.x_juyOG2Y1iO0R8CAj3aRjA--uA');
+bot.login('NjE1MjQ5NzE5MjU3NzI2OTg2.XWOpOg.SJfOojharvKTfIcLQJbZL0KP8fY');

@@ -10,7 +10,7 @@ module.exports.run = async (bot, message, args) => {
     let zoneEmbed = new Discord.RichEmbed()
     .setDescription("ZoneWars")
     .setColor("#e56b00")
-    .addField("Nick Hosta", `${nick}`)
+    .addField("Nick Hosta", `<@${message.author.id}>`)
     .addField("Jak zagrać:", "1. Dodać osobę hostującą do znajomych")
     .addField(" ឵឵", "2. Wbić do lobby")
     .addField("Zasady:", "1. Zakaz używania trybu anonimowego")
